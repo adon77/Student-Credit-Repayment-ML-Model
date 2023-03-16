@@ -27,7 +27,7 @@ The dataset used in this model is a collection of historical student loan applic
 - student\_id: unique identifier for each student
 - age: age of the student
 - sex: gender of the student
-- Location: home address of the student
+- address: home address of the student
 - family\_size: size of the student's family
 - income: income of the student's family
 - credit\_history: credit history of the student's family
@@ -42,3 +42,11 @@ The model used in this project is a decision tree classifier. The decision tree 
 **Results**
 
 The model achieved an accuracy of 85% on the test set. This indicates that the model is able to predict the eligibility and repayment status of student loans with a high degree of accuracy.
+
+**Contributing**
+
+Contributions are welcome! If you have any suggestions for improving this model, please feel free to submit a pull request.
+
+**License**
+
+This project is licensed under GNU GENERAL PUBLIC LICENSE- see the LICENSE.md file for details.
