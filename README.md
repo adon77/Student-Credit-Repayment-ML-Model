@@ -29,7 +29,6 @@ The dataset used in this model is a collection of historical student loan applic
 - sex: gender of the student
 - address: home address of the student
 - family\_size: size of the student's family
-- income: income of the student's family
 - credit\_history: credit history of the student's family
 - loan\_amount: amount of the loan requested by the student
 - loan\_duration: duration of the loan requested by the student
