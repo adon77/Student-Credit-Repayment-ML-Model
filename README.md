@@ -39,16 +39,6 @@ The dataset used in this model is a collection of historical student loan applic
 
 The model used in this project is a decision tree classifier. The decision tree classifier is a type of supervised learning algorithm that is mostly used for classification problems. It works by partitioning the dataset into smaller subsets based on the values of the input features. The model then selects the feature that results in the best split, and recursively splits the data based on this feature until a stopping criterion is reached.
 
-![](RackMultipart20230316-1-33nvxq_html_fd61b5c737956914.png)
-
-![](RackMultipart20230316-1-33nvxq_html_4fe9ef053622ba9e.png)
-
-![](RackMultipart20230316-1-33nvxq_html_727d9e1001bb7667.png) ![](RackMultipart20230316-1-33nvxq_html_232eea1de0feefa4.png)
-
-![](RackMultipart20230316-1-33nvxq_html_cb12f7f8e7817743.png)
-
-![](RackMultipart20230316-1-33nvxq_html_e69a1ef98d229834.png)
-
 **Results**
 
 The model achieved an accuracy of 85% on the test set. This indicates that the model is able to predict the eligibility and repayment status of student loans with a high degree of accuracy.
